@@ -1,3 +1,0 @@
-ArgumentError: Package CaNNOLeS not found in current path:
-- Run `import Pkg; Pkg.add("CaNNOLeS")` to install the CaNNOLeS package.
-
