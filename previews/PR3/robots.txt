@@ -1,0 +1,4 @@
+Sitemap: https://introduction-to-cannoles.netlify.app/previews/PR3/sitemap.xml
+
+User-agent: *
+Disallow:
